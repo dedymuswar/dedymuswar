@@ -4,8 +4,8 @@
 
 ## I'm a Husband, Father, and Web Programmer!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything 📕 
+- 👯 2020 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
